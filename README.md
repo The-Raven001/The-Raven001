@@ -12,7 +12,7 @@
 
  📫 How to reach me **gacm95218@gmail.com**
 
- ⚡ Fun fact **The first-ever emoji was actually created in 1999 by a Japanese designer named Shigetaka Kurita! So, if you see me using 🎉 or 🚀 in my commit messages, I’m just paying tribute to history 😉**
+ ⚡ Fun fact **The first-ever emoji was actually created in 1999 by a Japanese designer named Shigetaka Kurita, So, if you see me using 🎉 or 🚀 in my commit messages, I’m just paying tribute to history 😉**
  
 </div>
 
