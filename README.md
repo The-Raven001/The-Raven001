@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **gacm95218@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="cenert">
 <a href="https://linkedin.com/in/gabriel-montilla-2173b0243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-montilla-2173b0243" height="30" width="40" /></a>
 </p>
 
