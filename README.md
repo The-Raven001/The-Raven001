@@ -75,7 +75,5 @@
 <div>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-raven001&show_icons=true&locale=en&layout=compact" alt="the-raven001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-raven001&show_icons=true&locale=en" alt="the-raven001" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-raven001&" alt="the-raven001" /></p>
 </div>
