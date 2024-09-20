@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Montilla</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-raven001" alt="the-raven001" /></a> </p>
-
 - 🔭 I’m currently working on [EHR-Project](https://github.com/The-Raven001/ehr-project)
 
 - 💬 Ask me about **Python**
