@@ -8,9 +8,11 @@
     
  🔭 I’m currently working on [EHR-Project](https://github.com/The-Raven001/ehr-project)
 
- 💬 Ask me about **Python**
+ 💬 Ask me about **Python, Javascript, or how to make your page work**
 
  📫 How to reach me **gacm95218@gmail.com**
+
+ ⚡ Fun fact **The first-ever emoji was actually created in 1999 by a Japanese designer named Shigetaka Kurita! So, if you see me using 🎉 or 🚀 in my commit messages, I’m just paying tribute to history 😉**
  
 </div>
 
