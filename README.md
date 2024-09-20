@@ -3,11 +3,13 @@
 </h1>
 <h3 align="center">Software Developer</h3>
 
+<div>
 - 🔭 I’m currently working on [EHR-Project](https://github.com/The-Raven001/ehr-project)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **gacm95218@gmail.com**
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="cenert">
