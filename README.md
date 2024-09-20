@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Software Developer</h3>
 
-<div>
+<div align="center">
 - 🔭 I’m currently working on [EHR-Project](https://github.com/The-Raven001/ehr-project)
 
 - 💬 Ask me about **Python**
