@@ -66,7 +66,7 @@ Stack: React, TypeScript, Tailwind, FastAPI, PostgreSQL<br/>
 
 <strong>EHR Project</strong><br/>
 Healthcare-focused application for managing patient data and workflows.<br/>
-Stack: React, FastAPI, PostgreSQL<br/>
+Stack: React, JavaScript, PostgreSQL, Firebase<br/>
 <a href="https://github.com/The-Raven001/ehr-project">Repository</a>
 
 </div>
