@@ -61,6 +61,7 @@ Git • GitHub • Postman • Vercel • Render • Docker (learning)
 Full-stack task management dashboard with authentication and CRUD operations.<br/>
 Stack: React, TypeScript, Tailwind, FastAPI, PostgreSQL<br/>
 <a href="https://github.com/The-Raven001/task-dashboard">Repository</a>
+<a href="https://github.com/The-Raven001/task-dashboard](https://task-dashboard-coss331ck-the-raven001s-projects.vercel.app">Live demo</a>
 
 <br/><br/>
 
