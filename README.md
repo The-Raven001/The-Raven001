@@ -6,7 +6,7 @@
 <div align="center">
 
     
- 🔭 I’m currently working on [EHR-Project](https://github.com/The-Raven001/ehr-project)
+ 🔭 I’m currently working on [Medical-AI-Flow](https://github.com/The-Raven001/medical-flow-ai)
 
  💬 Ask me about **Full-stack development, REST APIs, and building scalable web applications**
 
